@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetEnv" Version="3.1.0" />
+    <ProjectReference Include="..\CKB.Contracts\CKB.Contracts.csproj" />
+    <ProjectReference Include="..\CKB.Application\CKB.Application.csproj" />
+    <ProjectReference Include="..\CKB.Infrastructure\CKB.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CKB.Application/1.0.0": {
+        "dependencies": {
+          "CKB.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CKB.Application.dll": {}
+        }
+      },
+      "CKB.Domain/1.0.0": {
+        "runtime": {
+          "CKB.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CKB.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CKB.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

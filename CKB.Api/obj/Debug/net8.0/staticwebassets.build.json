@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "taD0aE2nAxr5lZfCt8Hg4a3QorK3KT0995wTFF19gOo=",
+  "Source": "CKB.Api",
+  "BasePath": "_content/CKB.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

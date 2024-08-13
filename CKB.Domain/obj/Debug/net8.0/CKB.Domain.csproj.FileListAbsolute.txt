@@ -1,0 +1,12 @@
+C:\dev\CKB\CKB.Domain\bin\Debug\net8.0\CKB.Domain.deps.json
+C:\dev\CKB\CKB.Domain\bin\Debug\net8.0\CKB.Domain.dll
+C:\dev\CKB\CKB.Domain\bin\Debug\net8.0\CKB.Domain.pdb
+C:\dev\CKB\CKB.Domain\obj\Debug\net8.0\CKB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CKB\CKB.Domain\obj\Debug\net8.0\CKB.Domain.AssemblyInfoInputs.cache
+C:\dev\CKB\CKB.Domain\obj\Debug\net8.0\CKB.Domain.AssemblyInfo.cs
+C:\dev\CKB\CKB.Domain\obj\Debug\net8.0\CKB.Domain.csproj.CoreCompileInputs.cache
+C:\dev\CKB\CKB.Domain\obj\Debug\net8.0\CKB.Domain.sourcelink.json
+C:\dev\CKB\CKB.Domain\obj\Debug\net8.0\CKB.Domain.dll
+C:\dev\CKB\CKB.Domain\obj\Debug\net8.0\refint\CKB.Domain.dll
+C:\dev\CKB\CKB.Domain\obj\Debug\net8.0\CKB.Domain.pdb
+C:\dev\CKB\CKB.Domain\obj\Debug\net8.0\ref\CKB.Domain.dll

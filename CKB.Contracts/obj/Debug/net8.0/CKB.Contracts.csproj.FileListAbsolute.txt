@@ -1,0 +1,12 @@
+C:\dev\CKB\CKB.Contracts\bin\Debug\net8.0\CKB.Contracts.deps.json
+C:\dev\CKB\CKB.Contracts\bin\Debug\net8.0\CKB.Contracts.dll
+C:\dev\CKB\CKB.Contracts\bin\Debug\net8.0\CKB.Contracts.pdb
+C:\dev\CKB\CKB.Contracts\obj\Debug\net8.0\CKB.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CKB\CKB.Contracts\obj\Debug\net8.0\CKB.Contracts.AssemblyInfoInputs.cache
+C:\dev\CKB\CKB.Contracts\obj\Debug\net8.0\CKB.Contracts.AssemblyInfo.cs
+C:\dev\CKB\CKB.Contracts\obj\Debug\net8.0\CKB.Contracts.csproj.CoreCompileInputs.cache
+C:\dev\CKB\CKB.Contracts\obj\Debug\net8.0\CKB.Contracts.sourcelink.json
+C:\dev\CKB\CKB.Contracts\obj\Debug\net8.0\CKB.Contracts.dll
+C:\dev\CKB\CKB.Contracts\obj\Debug\net8.0\refint\CKB.Contracts.dll
+C:\dev\CKB\CKB.Contracts\obj\Debug\net8.0\CKB.Contracts.pdb
+C:\dev\CKB\CKB.Contracts\obj\Debug\net8.0\ref\CKB.Contracts.dll
