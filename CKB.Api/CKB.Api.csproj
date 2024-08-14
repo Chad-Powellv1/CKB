@@ -8,10 +8,19 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DotNetEnv" Version="3.1.0" />
     <ProjectReference Include="..\CKB.Contracts\CKB.Contracts.csproj" />
     <ProjectReference Include="..\CKB.Application\CKB.Application.csproj" />
     <ProjectReference Include="..\CKB.Infrastructure\CKB.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetEnv" Version="3.1.0" />
+    <PackageReference Include="MApster" Version="7.4.0" />
+    <PackageReference Include="MApster.DependencyInjection" Version="1.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.1">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
   </ItemGroup>
 
 </Project>

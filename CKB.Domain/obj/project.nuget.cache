@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TQTPmmOKcpQD70qJtowp71awtlhegfZJYvv4AoCGIf39pIp6Ezxf4mRO7x0QaqILLOmdpDf8/IyRPbmydIrTjQ==",
+  "dgSpecHash": "FrvjONqrvD4=",
   "success": true,
   "projectFilePath": "C:\\dev\\CKB\\CKB.Domain\\CKB.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\chada\\.nuget\\packages\\erroror\\1.0.0\\erroror.1.0.0.nupkg.sha512",
+    "C:\\Users\\chada\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\chada\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
